@@ -2,9 +2,11 @@
 
 ## 📄 Description:
 REST-API supports user authentication,
-authorization and CRUD operations
+authorization and CRUD operations.
+Allow add movie session to cinema hall, and find available session
+Created using Spring & Hibernate.
 ## 💻Main technology stack:
-Java 17, Spring Security, Spring Web MVC, Hibernate, MySQL, Tomcat, Maven
+Java 17, Spring Security, Spring Web MVC, Hibernate, MySQL 8.0, Tomcat 9.0.75, Maven
 
 ![pic](img.png)
 
