@@ -1,12 +1,16 @@
-﻿# 🎥Cinema-REST-API
+# 🎥Cinema-REST-API
 
 ## 📄 Description:
-REST-API supports user authentication,
+Cinema REST-API Allow add movie session to cinema hall, and find available session. Supports user authentication,
 authorization and CRUD operations.
-Allow add movie session to cinema hall, and find available session
 Created using Spring & Hibernate.
 ## 💻Main technology stack:
-Java 17, Spring Security, Spring Web MVC, Hibernate, MySQL 8.0, Tomcat 9.0.75, Maven
+- Java 17
+- Spring Security
+- Spring Web MVC
+- Hibernate, MySQL 8.0
+- Tomcat 9.0.75
+- Maven
 
 ![pic](img.png)
 
@@ -36,4 +40,3 @@ git@github.com:Rolik-Oleksandr/cinema-rest-api.git
 ![pic](properties.png)
 4. Run "mvn clean package" command in your terminal.
 5. If everything okay - start Tomcat and try app.
-
